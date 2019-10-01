@@ -7,3 +7,5 @@ if ( favoriteLanguage === "javascript") {
 }
 
 // Write the same code using a ternary operator
+
+favoriteLanguage === "javascript" ? "you are awesome" : "it's ok";
